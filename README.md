@@ -4,3 +4,6 @@ ik heb een nieuw bedrijf gekozen voor mijn website, want ik had een beter idee. 
 
 ## 3/02
 Vandaag heb ik de engelse webpagina gemaakt en ook al een deel de inhoud van website gemaakt. De opmaak voor de algemene pagina heb ik ook gedaan.
+
+## 4/02 
+Ik heb vandaag mijn webpagine diensten opgemaakt en inhoud toegevoegd. De uitlijning klopt nu wel wat voordien wel een probleem was. 
