@@ -10,3 +10,6 @@ Ik heb vandaag mijn webpagine diensten opgemaakt en inhoud toegevoegd. De uitlij
 
 ## 10/02
 website diensten aan begonnen, maar ging eerst niet goed. Daarna wel al een deel de juiste css gevonden.
+
+## 11/02
+websitepagina Contact al wat inhoud toegevoegd en opmaak. Webpagina blog ook afgemaakt. 
